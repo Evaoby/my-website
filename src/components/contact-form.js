@@ -119,10 +119,10 @@ export function ContactForm() {
       {status === "success" && (
         <div className="form-ack-notice" role="status">
           <p>
-            <strong>MESSAGE RECEIVED</strong>
+            <strong>YOU’RE IN.</strong>
           </p>
           <p>
-            Thank you for reaching out! Your message has been received, and Evangeline will get back to you shortly.
+            Thanks for reaching out. I’ve got your message and will be in touch soon.
           </p>
         </div>
       )}
